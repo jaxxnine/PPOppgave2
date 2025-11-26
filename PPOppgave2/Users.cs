@@ -54,12 +54,16 @@
 
         public void Introduce()
         {
-            Console.WriteLine($"Heisann! jeg heter {Name} og er {Age} år ung");
+            Console.WriteLine($"Hello! My name is {Name} and I'm {Age} years young");
         }
 
         public void ShowHobbies()
         {
-            Console.WriteLine($"{Name} sine tidsfordriv er {Hobbies}");
+            Console.WriteLine($"{Name}'s hobbies are {Hobbies}");
+            foreach (var hobby in Hobbies)
+            {
+                Console.WriteLine($", {hobby}");
+            }
         }
     }
     
