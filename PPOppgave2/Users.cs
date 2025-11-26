@@ -20,9 +20,9 @@
 
 // public class User
 // //{
-                //   public string Name { get; set; }
-            // public int Age { get; set; }
-                //public string HairColor { get; set; }
+        //   public string Name { get; set; }
+        // public int Age { get; set; }
+        //public string HairColor { get; set; }
              //public string Personality { get; set; }
         //public string Hobbies { get; set; }
              //}
