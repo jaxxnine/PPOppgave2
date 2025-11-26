@@ -12,3 +12,4 @@ C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\refin
 C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.pdb
 C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.genruntimeconfig.cache
 C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\ref\PPOppgave2.dll
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.sourcelink.json
