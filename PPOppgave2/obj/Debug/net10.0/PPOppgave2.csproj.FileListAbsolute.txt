@@ -1,0 +1,14 @@
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.AssemblyInfoInputs.cache
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.AssemblyInfo.cs
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.csproj.CoreCompileInputs.cache
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\bin\Debug\net10.0\PPOppgave2.exe
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\bin\Debug\net10.0\PPOppgave2.deps.json
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\bin\Debug\net10.0\PPOppgave2.runtimeconfig.json
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\bin\Debug\net10.0\PPOppgave2.dll
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\bin\Debug\net10.0\PPOppgave2.pdb
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.dll
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\refint\PPOppgave2.dll
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.pdb
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\PPOppgave2.genruntimeconfig.cache
+C:\Users\jataa\Desktop\ \Jaxx\GET\PPOppgave2\PPOppgave2\obj\Debug\net10.0\ref\PPOppgave2.dll
